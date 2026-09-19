@@ -1,6 +1,12 @@
 # FunnelIQ
 ### Marketing Attribution & Funnel ROI Dashboard
 
+## 🚀 Live Dashboard
+
+**[Open the FunnelIQ live Streamlit dashboard ↗](https://harsha-funneliq.streamlit.app)**
+
+Try the interactive dashboard directly in your browser. The GitHub repository contains the complete source code, while the Streamlit deployment is the live, interactive version for portfolio reviewers and hiring managers.
+
 > **How to use this document:** Paste this whole file into ChatGPT as your
 > first message and ask it to build the project exactly as specified below,
 > file by file, in the order given in Section 11.
